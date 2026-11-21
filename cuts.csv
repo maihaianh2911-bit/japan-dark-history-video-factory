@@ -1,0 +1,4 @@
+tên file,bắt đầu,kết thúc,nhãn
+# Mỗi dòng là 1 đoạn cần cắt. Xóa dấu # ở đầu dòng ví dụ dưới đây (và thay bằng video thật) để dùng.
+# "tên file" có thể chép từ cột "tên file" trong list.csv, hoặc chỉ cần gõ ID video (phần trước dấu _ đầu tiên).
+# XXXXXXXXXXX,00:01:05,00:01:20,肉声_経営の神様

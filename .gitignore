@@ -1,0 +1,12 @@
+# Video tải về và clip đã cắt (rất nặng, không đưa lên git)
+downloads/
+clips/
+
+# File do script tạo ra
+list.csv
+list_*.csv
+errors.txt
+cookies.txt
+
+__pycache__/
+*.pyc
